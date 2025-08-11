@@ -48,7 +48,7 @@ This project includes a `docker-compose.yml` file for easy deployment. It define
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/open-webui-ollama.git
+    git clone https://github.com/ShaofengChu/open-webui-ollama.git
     cd open-webui-ollama
     ```
 
