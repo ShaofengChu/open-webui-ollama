@@ -26,8 +26,8 @@ open-webui-ollama is a web-based user interface for interacting with Ollama mode
 ## Screenshots
 
 <!-- Add screenshots of your UI here -->
-![Screenshot 1](docs/screenshot1.png)
-![Screenshot 2](docs/screenshot2.png)
+<img width="1910" height="1113" alt="image" src="https://github.com/user-attachments/assets/3dba2cd3-689b-419e-90c8-7d9eb8111efb" />
+
 
 ## Getting Started
 
